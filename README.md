@@ -1,30 +1,68 @@
+
+
 <div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?
+  font=Segoe+UI&
+  weight=600&
+  size=32&
+  duration=3000&
+  pause=1000&
+  color=FF69B4&
+  center=true&
+  vCenter=true&
+  width=380&
+  lines=Hi%2C+I'm+Amina+🤖" />
+</h1>
+<div align="center">
+</div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Amina&fontSize=70&animation=fadeIn" />
 </div>
 
+
+<!-- ANIMATED NAME + TITLE -->
 <div align="center">
-  <h3> 💻 learning programming basics and python | AI Enthusiast </h3>
+
+<!-- IMAGE PLACEHOLDER -->
+<img src="https://i.ibb.co/3T9x0QJ/dark-sci-fi-robot.jpg" width="280" alt="Robot"/>
+
+<!-- ANIMATED NAME + TITLE -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=32&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=450&lines=Hi,+I+am+Amina+Shahzad;Student+of+AI" />
+</h1>
+
+</div>
+
+
+
+
+<div align="center">
+  <h3> 💻 C++ & Python Developer | AI Enthusiast </h3>
 </div>
 
 ---
 
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
-* 🔭 I’m currently working on **constructing logics to understand programming**
+* 🔭 I’m currently working on **Developing logic-based projects using C++ and Python**
 * 👯 I’m looking to collaborate on **Open-source Python scripts and AI modules**
 * 🤝 I’m looking for help with **Deepening my understanding of AI and Automation**
 * 🌱 I’m currently learning **The intersection of AI and Data Structures in C++**
 * 💬 Ask me about **Programming, Python, or AI technology**
-* ⚡ Fun fact ** i enjoy playing with complex coding problems and finding their solutions!**
+* ⚡ Fun fact **I enjoy turning complex problems into clean, efficient code!**
 
 ---
 
 ### 🌐 Connect with Me:
 <div align="center">
-   <a href="https://linkedin.com/in/Amina shahzad" target="_blank">
+  
+  <a href="https://linkedin.com/in/Amina shahzad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/Amnashahzad826" target="_blank">
+  <a href="https://instagram.com/aminashahzad826" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="mailto:aminashazad2k7@openai.com">
