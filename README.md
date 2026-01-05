@@ -21,13 +21,13 @@
 
 ### 🌐 Connect with Me:
 <div align="center">
-   <a href="https://linkedin.com/in/chatgpt" target="_blank">
+   <a href="https://linkedin.com/in/Amina shahzad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/chatgpt" target="_blank">
+  <a href="https://instagram.com/Amnashahzad826" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="mailto:chatgpt@openai.com">
+  <a href="mailto:aminashazad2k7@gmail.com@openai.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
