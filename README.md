@@ -1,113 +1,70 @@
-
-
+<!-- TOP AI / ROBOTIC GIF -->
 <div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?
-  font=Segoe+UI&
-  weight=600&
-  size=32&
-  duration=3000&
-  pause=1000&
-  color=FF69B4&
-  center=true&
-  vCenter=true&
-  width=380&
-  lines=Hi%2C+I'm+Amina+🤖" />
-</h1>
-<div align="center">
-</div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Amina&fontSize=70&animation=fadeIn" />
+  <img width="420" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 </div>
 
-
-<!-- ANIMATED NAME + TITLE -->
+<!-- HEADER -->
 <div align="center">
-
-<!-- IMAGE PLACEHOLDER -->
-<img src="https://i.ibb.co/3T9x0QJ/dark-sci-fi-robot.jpg" width="280" alt="Robot"/>
-
-<!-- ANIMATED NAME + TITLE -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=32&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=450&lines=Hi,+I+am+Amina+Shahzad;Student+of+AI" />
-</h1>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Amina%20Shahzad&fontSize=65&animation=fadeIn" />
 </div>
 
-
-
-
 <div align="center">
-  <h3> 💻 C++ & Python Developer | AI Enthusiast </h3>
+  <h3> 🤖 AI Student | C++ & Python Developer | Tech Explorer </h3>
 </div>
 
 ---
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+<img align="right" width="330" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
 
-* 🔭 I’m currently working on **Developing logic-based projects using C++ and Python**
-* 👯 I’m looking to collaborate on **Open-source Python scripts and AI modules**
-* 🤝 I’m looking for help with **Deepening my understanding of AI and Automation**
-* 🌱 I’m currently learning **The intersection of AI and Data Structures in C++**
-* 💬 Ask me about **Programming, Python, or AI technology**
-* ⚡ Fun fact **I enjoy turning complex problems into clean, efficient code!**
+### 👩‍💻 About Me
+* 🔭 I’m currently working on **logic-based projects using C++ and Python**
+* 👯 I’m looking to collaborate on **open-source beginner-friendly projects**
+* 🤝 I’m learning **Artificial Intelligence & Automation**
+* 🌱 Exploring **Data Structures with C++**
+* 💬 Ask me about **Programming, Python, or AI basics**
+* ⚡ Fun fact: **I enjoy converting complex problems into clean code**
 
 ---
 
-### 🌐 Connect with Me:
+### 🌐 Connect with Me
 <div align="center">
-  
-  <a href="https://linkedin.com/in/Amina shahzad" target="_blank">
+  <a href="https://www.linkedin.com/in/Amina%20Shahzad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/aminashahzad826" target="_blank">
+
+  <a href="https://instagram.com/aminasahahzad826" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="mailto:aminashazad2k7@openai.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <a href="mailto:aminashazad2k7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 ---
 
-### 💻 Tech Stack:
+### 💻 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Analysis:
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chatgpt&theme=tokyonight" height="150" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chatgpt&theme=tokyonight" height="150" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chatgpt&theme=tokyonight&hide_border=true" alt="streak stats" />
-</p>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Sometimes%20it%20is%20the%20people%20no%20one%20can%20imagine%20anything%20of%20who%20do%20the%20things%20no%20one%20can%20imagine.&author=Alan%20Turing" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=100&section=footer" />
-</div>
-
+### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chatgpt&theme=tokyonight&no-bg=true&v=1" alt="trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=tokyonight" height="150" />
 </p>
 
+<!-- ADDITION UNDER GITHUB ANALYSIS -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chatgpt&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Progress%20is%20more%20important%20than%20perfection.&author=Anonymous" />
 </div>
+
+---
+
+
