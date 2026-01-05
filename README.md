@@ -27,7 +27,7 @@
   <a href="https://instagram.com/Amnashahzad826" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
-  <a href="mailto:aminashazad2k7@gmail.com@openai.com">
+  <a href="mailto:aminashazad2k7@openai.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
