@@ -1,5 +1,8 @@
 <!-- TOP AI / ROBOTIC GIF -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Amina%20Shahzad&fontSize=65&animation=fadeIn" />
+</div>
+<div align="center">
   <img width="420" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 </div>
 
@@ -7,9 +10,7 @@
 
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Amina%20Shahzad&fontSize=65&animation=fadeIn" />
-</div>
+
 
 <div align="center">
   <h3> 🤖 AI Student | C++ & Python Developer | Tech Explorer </h3>
