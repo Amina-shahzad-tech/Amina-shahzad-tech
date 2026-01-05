@@ -4,6 +4,9 @@
 </div>
 
 <!-- HEADER -->
+
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Amina%20Shahzad&fontSize=65&animation=fadeIn" />
 </div>
@@ -56,12 +59,20 @@
 ---
 
 ### 📊 GitHub Analysis
+<!-- GITHUB STREAK -->
+<!-- GITHUB STREAK + CONTRIBUTION GRAPH -->
+<p align="center">
+  <!-- Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=Amina-shahzad-tech/&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 
 
 <!-- CONTRIBUTION GRAPH -->
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=aminashahzad&theme=tokyo-night&hide_border=true&area=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Amina-shahzad-tech&theme=tokyo-night&hide_border=true&area=true" 
     alt="GitHub Contribution Graph" 
   />
 </p>
